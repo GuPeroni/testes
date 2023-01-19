@@ -1,0 +1,1 @@
+from .new_customer import Customer

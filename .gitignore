@@ -1,0 +1,10 @@
+app/__pycache__
+docs/__pycache__
+fake_db/__pycache__
+src/aporte_extra/__pycache__
+src/customer/__pycache__
+src/plan/__pycache__
+src/product/__pycache__
+src/rescue/__pycache__
+utils\__pycache__
+__pycache__

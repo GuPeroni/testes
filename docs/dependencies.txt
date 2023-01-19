@@ -1,0 +1,5 @@
+using requirements.txt
+pip install -r requirements.txt
+
+Execute your flask project:
+python main.py
